@@ -5,6 +5,7 @@
     font-size : 30px;
     height : 70px;
     align-items:center;
+    gap:'5px';
 }
 
 .parentName{
