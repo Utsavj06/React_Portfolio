@@ -36,15 +36,7 @@ const Skills = () => {
             <div className="center">
                 <img src={material} alt="material" height="200" width="200" />
                 <h1 className="">Material UI</h1>
-            </div>
-            <div className="center">
-                <img src={bootstrap}  alt="bootstrap" height="200" width="200" />
-                <h1 className="">Bootstrap</h1>
-            </div>
-            <div className="center">
-                <img src={JQuery} alt="JQuery" height="200" width="200" />
-                <h1 className="">jQuery</h1>
-            </div>               
+            </div>              
         </div>
     )
 }
