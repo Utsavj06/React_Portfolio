@@ -1,11 +1,9 @@
 import React from 'react';
 import "./Skills.css";
-import bootstrap from '../image/bootstrap.jpeg'
 import css from "../image/css.png";
 import JS from "../image/Js.png";
 import Reactj from "../image/Reactjs.png";
 import tailwind from "../image/tailwind.png";
-import JQuery from "../image/jquery.jpg";
 import Typescript from '../image/Typescript.png'
 import material from '../image/material-ui.png'
 
